@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color:black
+}
+
+html, body {
+    height: 100%;
+    border: blue 2px solid;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url();
+
+}
